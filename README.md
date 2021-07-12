@@ -1,9 +1,9 @@
 # Hi there, I'm Safiullin Ruslan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<!--
 ## About me
   - :fireworks: Always ready to learn something new
   - :smirk: I love new acquaintances, I easily join a new team
-
 ## Study
   - :books: I'm studying to be a Software Engineer
   - :boom: Studied Java for two years
