@@ -10,7 +10,7 @@ Student Software Engineer at [***ITIS***](https://kpfu.ru/itis) I'm a passionate
 <img align="right" height="220" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ## :student: Education
-- :busts_in_silhouette: Studied [***Java***](https://www.java.com), [***Spring***](https://spring.io/), [***JavaFX***](https://openjfx.io/) for 2 years at [***ITIS***](https://kpfu.ru/itis)
+- :busts_in_silhouette: Studied [***Java***](https://www.java.com), [***Spring***](https://spring.io/), for 2 years at [***ITIS***](https://kpfu.ru/itis)
 - :robot: A little familiar with Machine learning, studied at [***ITIS***](https://kpfu.ru/itis)
 - :technologist: Work with [***Django***](https://www.djangoproject.com/)
 - :running_man: I am currently studying [***JavaScript***](https://www.javascript.com/), [***TypeScript***](https://www.typescriptlang.org/) and [***React***](https://reactjs.org/)
