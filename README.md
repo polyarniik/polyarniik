@@ -45,8 +45,8 @@ Student Software Engineer at [***ITIS***](https://kpfu.ru/itis) I'm a passionate
   <summary><b>⚙️ Things I use to get stuff done</b>
   </summary>
   	<ul>
-  	    <li><b>OS: </b> Ubuntu 20.04 :fire:</li>
-	    <li><b>Laptop: </b> Mi Notebook Pro 15 (i5) :computer:</li>
+  	    <li><b>OS: </b> Mac OS Monterey :fire:</li>
+	    <li><b>Laptop: </b> Macbook Air M1 :computer:</li>
   	    <li><b>Browser: </b> Firefox Web Browser :fox_face:</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k) :heart_eyes_cat:</li>
 	    <li><b>Code Editors: </b> PyCharm, Sublime, DataGrip, WebStorm :mage_man:</li>
