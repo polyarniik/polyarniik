@@ -12,7 +12,11 @@ Student Software Engineer at [***ITIS***](https://kpfu.ru/itis) I'm a passionate
 ## :student: Education
 - :busts_in_silhouette: Studied [***Java***](https://www.java.com), [***Spring***](https://spring.io/), for 2 years at [***ITIS***](https://kpfu.ru/itis)
 - :robot: A little familiar with Machine learning, studied at [***ITIS***](https://kpfu.ru/itis)
-- :technologist: Work with [***Django***](https://www.djangoproject.com/)
+---
+
+## :briefcase: Work
+- :pushpin: I worked as a freelancer for one year. Developed telegram bots and Django websites.
+- :round_pushpin: Junior Django Developer in [***Fabrique***](https://fabrique.studio/)
 
 ---
 
