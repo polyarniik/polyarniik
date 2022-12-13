@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&width=950&height=80&lines=Hi+there,+I+am+Safiullin+Ruslan+👋)](https://git.io/typing-svg)
 
 ## :bearded_person: About me 
-Student Software Engineer at [***ITIS***](https://kpfu.ru/itis) I'm a passionate learner who's always willing to learn and work across technologies and domains. I'm doing web development, using [***Python***](https://www.python.org/), [***Django***](https://www.djangoproject.com/) :blue_heart:
+Student Software Engineer at [***ITIS***](https://kpfu.ru/itis) I'm a passionate learner who's always willing to learn and work across technologies and domains. I'm doing web development, using [***Python***](https://www.python.org/), [***Django***](https://www.djangoproject.com/)
 
-:computer: Joined IT **2** years ago
+:computer: Joined IT in 2019
 
 ---
 
@@ -17,6 +17,7 @@ Student Software Engineer at [***ITIS***](https://kpfu.ru/itis) I'm a passionate
 ## :briefcase: Work
 - :pushpin: I worked as a freelancer for one year. Developed telegram bots and Django websites.
 - :round_pushpin: Junior Django Developer in [***Fabrique***](https://fabrique.studio/)
+- :round_pushpin: Python Backend Developer in [***X5Tech***](https://x5tech.ru)
 
 ---
 
