@@ -6,9 +6,6 @@ Student Software Engineer at [***ITIS***](https://kpfu.ru/itis) I'm a passionate
 :computer: Joined IT in 2019
 
 ---
-
-<img align="right" height="220" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 ## :student: Education
 - :busts_in_silhouette: Studied [***Java***](https://www.java.com), [***Spring***](https://spring.io/), for 2 years at [***ITIS***](https://kpfu.ru/itis)
 - :robot: A little familiar with Machine learning, studied at [***ITIS***](https://kpfu.ru/itis)
@@ -17,12 +14,13 @@ Student Software Engineer at [***ITIS***](https://kpfu.ru/itis) I'm a passionate
 ## :briefcase: Work
 - :pushpin: I worked as a freelancer for one year. Developed telegram bots and Django websites.
 - :round_pushpin: Junior Django Developer in [***Fabrique***](https://fabrique.studio/)
-- :round_pushpin: Python Backend Developer in [***X5Tech***](https://x5tech.ru)
+- :round_pushpin: Python Backend Developer in [***X5 Tech***](https://x5-tech.ru/)
+- :round_pushpin: Go Backend Developer in [***Avito Tech***](https://avito.tech/)
 
 ---
 
 ## :desktop_computer: Languages and Tools
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
@@ -44,18 +42,3 @@ Student Software Engineer at [***ITIS***](https://kpfu.ru/itis) I'm a passionate
 
 ## Contact with me
 [![My Telegram](https://img.shields.io/badge/telegram-white?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/polyarniik) 
-
-
-<details>
-  <br/>
-  <summary>
-    <b>:chart: Stats</b>
-  </summary>
-  
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polyarniik&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polyarniik&layout=compact&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-| ------------- | ------------- |
-
-</details>
-
-
-
