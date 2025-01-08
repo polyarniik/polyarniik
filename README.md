@@ -13,9 +13,9 @@ Student Software Engineer at [***ITIS***](https://kpfu.ru/itis) I'm a passionate
 
 ## :briefcase: Work
 - :pushpin: I worked as a freelancer for one year. Developed telegram bots and Django websites.
-- :round_pushpin: Junior Django Developer in [***Fabrique***](https://fabrique.studio/) – 2021
-- :round_pushpin: Python Backend Developer in [***X5 Tech***](https://x5-tech.ru/) – 2021 - 2023
-- :round_pushpin: Go Backend Developer in [***Avito Tech***](https://avito.tech/) – 2023 - present
+- :round_pushpin: Junior Django Developer in [***Fabrique***](https://fabrique.studio/) – 2022
+- :round_pushpin: Python Backend Developer in [***X5 Tech***](https://x5-tech.ru/) – 2022 - 2024
+- :round_pushpin: Go Backend Developer in [***Avito Tech***](https://avito.tech/) – 2024 - present
 
 ---
 
